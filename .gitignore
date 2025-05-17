@@ -1,3 +1,9 @@
+# Files not to upload.
+.RData
+.txt
+temp/
+
+
 # History files
 .Rhistory
 .Rapp.history
