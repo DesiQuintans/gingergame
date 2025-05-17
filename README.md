@@ -21,24 +21,26 @@ This repository contains some of my outputs from Gingering:
 
 ## 101-ginger-base-dictionary.csv
 
-+ The untranslated dictionary in spreadsheet form, extracted from the "Paper Edition v13" .pdf of Ginger that the author makes freely available on Steam.
-+ My base dictionary includes extra information such as:
-	* Corpus frequencies
-		- Number of times used in definitions
-		- Number of times the word is reduplicated (e.g. `yra yra`)
-	* Grammar information
-		- The actual colours of words when they are pronounced (yes, I pronounced all 1,182 of them)
-		- Parts of speech (POS) tags
-		- Number of POS tags the word falls into
-			+ For words that fall into many parts of speech (e.g. `deqhm` has a `k.` and `sj.` subdefinition), I also split the larger definition into separate columns for each part.
-	* Word meta-information
-		- Number of "senses" (numbered subdefinitions) the word has. For example, `ji` has 2 senses in its definition: "`k. 1 beba. 2 qrexzt deqhm.`".
-		- Graphemes
-			+ The word split into its graphemes
-			+ Number of graphemes
-			+ Initial and final graphemes
-		- Word length
-		- Reversed words and graphemes (for sorting by suffix)
+The untranslated dictionary in spreadsheet form, extracted from the "Paper Edition v13" .pdf of Ginger that the author makes freely available on Steam.
+
+My base dictionary includes extra information such as:
+
+- Corpus frequencies
+	+ Number of times used in definitions
+	+ Number of times the word is reduplicated (e.g. `yra yra`)
+- Grammar information
+	+ The actual colours of words when they are pronounced (yes, I pronounced all 1,182 of them)
+	+ Parts of speech (POS) tags
+	+ Number of POS tags the word falls into
+		* For words that fall into many parts of speech (e.g. `deqhm` has a `k.` and `sj.` subdefinition), I also split the larger definition into separate columns for each part.
+- Word meta-information
+	+ Word length
+	+ Number of "senses" (numbered subdefinitions) the word has. For example, `ji` has 2 senses in its definition: "`k. 1 beba. 2 qrexzt deqhm.`".
+	+ Graphemes
+		* The word split into its graphemes
+		* Number of graphemes
+		* Initial and final graphemes
+	+ Reversed words and graphemes (for sorting by suffix)
 
 
 ## Translation history
