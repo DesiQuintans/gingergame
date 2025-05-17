@@ -1,0 +1,7 @@
+Colour,Translation,Status,Source,logentry,revision_seq
+blue,NOUN,3,Trigram analysis of colour order in sentences.,../Ginger 2025-04-28 T0811 - n-gram analysis of word colours.md,1
+green,adjective/determiner,2,Trigram analysis of colour order in sentences.,../Ginger 2025-04-28 T0811 - n-gram analysis of word colours.md,1
+orange,pronoun/number/base,1,Some words coloured orange instead of their expected colour.,../Ginger 2025-05-11 T0030 - Mismatched colours all orange.md,2
+orange,pronoun/quantifier,2,Trigram analysis of colour order in sentences.,../Ginger 2025-04-28 T0811 - n-gram analysis of word colours.md,1
+purple,verb/adverb/article,2,Trigram analysis of colour order in sentences.,../Ginger 2025-04-28 T0811 - n-gram analysis of word colours.md,1
+tan,conjunction,2,Trigram analysis of colour order in sentences.,../Ginger 2025-04-28 T0811 - n-gram analysis of word colours.md,1
