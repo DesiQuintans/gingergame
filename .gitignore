@@ -1,6 +1,6 @@
 # Files not to upload.
-.RData
-.txt
+*.RData
+*.txt
 temp/
 
 
